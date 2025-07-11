@@ -1,4 +1,5 @@
 # Credit-Card-Fraud-Analysis
+A data analytics project exploring Credit Card Fraud Analysis content using Power BI and Power Query Editor. This project showcases statistical estimates through interactive visualization in Power BI.
 
 # Project Overview
 💳 Count of Fraud Risk by Card Type
