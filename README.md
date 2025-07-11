@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Analysis
 
 # Project Overview
-💳 Count of Fraud Risk by Crad Type
+💳 Count of Fraud Risk by Card Type
 
 💳 Frauds detected with each industry/domain
 
