@@ -24,7 +24,7 @@ New Measure Excel Code ( SUM, COUNTROWS, AVERAGE )
 
 Renamed Column
 
-Themed Dashboard
+Themed Dashboard with Stacked Column Chart, Pie Chart, Donut Chart
 
 # Screenshot of the Dashboard
 
